@@ -2,7 +2,12 @@
   "version": "2016-10-18",
   "status": "beta",
   "domains": [
-    "www.archivesdirect.amdigital.co.uk"
+    "www.archivesdirect.amdigital.co.uk",
+    "www.gender.amdigital.co.uk",
+    "www.sexandsexuality.amdigital.co.uk",
+    "www.socialismonfilm.amdigital.co.uk"
+    
+    
   ],
   "recognize": {
     "rid": [
