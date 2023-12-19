@@ -4,7 +4,8 @@
   "domains": [
     "www.osapublishing.org",
     "https://opg.optica.org",
-    "opg.optica.org"
+    "opg.optica.org",
+    "optica.opn.org"
   ],
   "recognize": {
     "rid": [
